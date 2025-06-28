@@ -10,3 +10,7 @@ Edit `TARGET_DOMAIN`, `CONNECTION_POOL_SIZE` and `DURATION` in the script before
 =======
 # http2-rapid-reset-tester
 >>>>>>> origin/main
+
+## Requirements
+- Python 3.7+
+- Install dependencies: `pip install -r requirements.txt`
