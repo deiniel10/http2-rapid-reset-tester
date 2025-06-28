@@ -1,0 +1,6 @@
+# HTTP/2 Rapid Reset Tester Requirements
+hyper-h2==4.1.0           # HTTP/2 protocol implementation
+pyOpenSSL==23.2.0          # Enhanced SSL/TLS features
+cryptography==41.0.4       # Required by pyOpenSSL
+six==1.16.0                # Python 2/3 compatibility
+hpack==4.0.0               # HTTP/2 header compression
